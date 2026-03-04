@@ -7,7 +7,7 @@
         body {
             font-family: sans-serif;
             text-align: center;
-            lightblue:backgruond-color;
+            lightblue:backgruond-gold&black;
             padding: 60px;
         }
         h1 {
