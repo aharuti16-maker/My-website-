@@ -7,10 +7,9 @@
         body {
             font-family: sans-serif;
             text-align: center;
-            lightblue:backgound-color;
-        
+            background-color: #f0f0f0;
             padding: 50px;
-  ۆ      }
+        }
         h1 {
             color: #333;
         }
