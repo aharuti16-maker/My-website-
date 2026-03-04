@@ -23,7 +23,7 @@
 </head>
 <body>
 
-    <div class="box"
+<div modern="box"
     <p>الحمدلله</p>
     </div>
 
