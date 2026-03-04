@@ -7,26 +7,24 @@
         body {
             font-family: sans-serif;
             text-align: center;
-            lightblue:backgruond-gold&black;
+            lightblue:backgruond-gold and black;
             padding: 60px;
         }
         h1 {
-            color: #333;
+            color: red;
         }
         .box {
             background-color: gold;
             padding: 45px;
             border-radius: 200px;
-            box-shadow: 5px 8px 10px rgba(0,0,0,0.1);
+            box-shadow: 5px 8px 10px rgba(1,0,1,0.1);
         }
     </style>
 </head>
 <body>
 
-    <div class="box">
-    <p>سلاو من احمد سیامند خوێندکاری بەشی ITلە کۆلێژی تەکنیکی سۆران -قۆناغی یەکەم <br>
-    حەز و خولیام فێربونی پڕۆگرامینگە
-    </p>
+    <div class="box"
+    <p>الحمدلله</p>
     </div>
 
 </body>
