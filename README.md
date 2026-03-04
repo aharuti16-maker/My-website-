@@ -8,16 +8,16 @@
             font-family: sans-serif;
             text-align: center;
             lightblue:backgruond-color;
-            padding: 50px;
+            padding: 60px;
         }
         h1 {
             color: #333;
         }
         .box {
             background-color: gold;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+            padding: 45px;
+            border-radius: 200px;
+            box-shadow: 5px 8px 10px rgba(0,0,0,0.1);
         }
     </style>
 </head>
