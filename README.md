@@ -8,10 +8,10 @@
 <body>
     <div class="card">
         <div class="img-bx">
-            <img src="https://via.placeholder.com/150" alt="https://www.facebook.com/p/%D8%AC%D9%88%D8%A7%D9%86%D8%AA%D8%B1%DB%8C%D9%86-%D9%88%DB%8E%D9%86%DB%95-100063628214041/ class="profile-img">
+            <img src="https://via.placeholder.com/150" alt=" class="profile-img">
         </div>
         <div class="content">
-            <h2> ڕۆژانی خەم<br><span>دیزاینەر </span></h2>
+            <h2> ڕۆژانی خەم<br><span>کوردستان </span></h2>
             <a href="https://github.com" class="btn">سەردانی گیت‌هاب بکە</a>
         </div>
     </div>
