@@ -2,7 +2,7 @@
 <html dir="rtl" lang="ku">
 <head>
     <meta charset="UTF-8">
-    <title>پەڕەی من</title>
+    <title>Ahmad seamand</title>
     <style>
         body {
             font-family: sans-serif;
