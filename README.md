@@ -12,18 +12,23 @@
             padding: 50px;
         }
         h1 {
-            color: #red;
+            color:red;
         }
         p {
-            color: #gold;
+            color:gold;
         }
     </style>
 </head>
 <body>
-
+<style>
+background-color: #f4f4f4;
+h1{
+    color🐦‍⬛;
+    p {
+        color🤸;
     <h1>بەخێربێیت بۆ ماڵپەڕەکەم</h1>
     <p>ئەمە یەکێکە لەو مالپەڕانەی
     حەزەکەم خۆی لەسەر فێربکەم!</p>
-
+</style>
 </body>
 </html>
